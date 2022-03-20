@@ -1,0 +1,11 @@
+import numpy as np
+x=np.random.randint(1,20,10)
+print(x)
+z=np.mean(x)
+z1=np.max(x)
+z2=np.min(x)
+men=int((z1+z2)/2)
+z3=np.median(x)
+print(z)
+print(men)
+print(z3)
