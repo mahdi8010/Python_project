@@ -1,6 +1,6 @@
 flie = open("data.txt","w")
 
-c1=int(input("namber ? "))
+c1=int(input("namber name ? "))
 c=range(c1)
 n1=[]
 n2=[]
@@ -30,7 +30,7 @@ n25=[]
 n26=[]
 g=[]
 for a in c :
-    y=str(input("x ? "))
+    y=str(input("name ha ? "))
     g.insert(a,y)
 
 

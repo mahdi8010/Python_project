@@ -1,5 +1,5 @@
 
-c=range(int(input("namber ? ")))
+c=range(int(input("namber name ? ")))
 n1=[]
 n2=[]
 n3=[]

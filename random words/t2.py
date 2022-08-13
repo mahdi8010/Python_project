@@ -7,6 +7,6 @@ seed(1)
 sequence = ["ali","bahram","sara","mahdi"]
 print(sequence)
 # make choices from the sequence
-for _ in range(1):
+for i in range(1):
 	selection = choice(sequence)
 	print(selection)
