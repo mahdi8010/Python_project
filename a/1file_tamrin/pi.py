@@ -249,7 +249,9 @@ def x(y=10):  #tabe
 x(13)
 '''
 
-x=2
 
-
+#o="ali is love "
+#print(o.split())
+#print(' '.join(list(reversed(o.split()))))
+#print(' '.join(['ali','and','mahdi']))
 
