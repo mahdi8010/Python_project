@@ -31,3 +31,7 @@
 #print(o.split())
 #print(' '.join(list(reversed(o.split()))))
 #print(' '.join(['ali','and','mahdi']))
+
+#import calendar
+#cal=calendar.TextCalendar(calendar.SATURDAY)
+#cal.prmonth(2022,2)
