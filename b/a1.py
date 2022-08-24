@@ -35,3 +35,16 @@
 #import calendar
 #cal=calendar.TextCalendar(calendar.SATURDAY)
 #cal.prmonth(2022,2)
+
+#x=range(1,10)
+
+#for i in x :
+  #for _ in range(i):
+    #print(i,end='  ')
+  #print()
+
+
+x=2
+
+print("ali and mahdi" ,x,'sale')
+
